@@ -1,0 +1,934 @@
+   ELIZA. Ah-ah-oh-ow-oo! Look,         ЭЛИЗА. А-а-о-о! Смотри, куда
+where are you going, dear, look,     идешь, дорогой, смотри, куда
+where are you going.                 идешь.
+
+   FREDDY. I'm so sorry.                ФРЕДИ. Я так виноват.
+
+   ELIZA. Two bunches of voilets        ЭЛИЗА. Два букета фиалок
+trod into the mud. A full day's      втоптал прямо в грязь! Все, что
+wages...                             я заработала за день...
+
+   THE MOTHER. Freddy, Freddy, go       МАТЬ. Фреди, Фреди, ступай и
+and find the cab.                    найди кэб.
+
+   FREDDY. Yes, mother.                 ФРЕДИ. Да, мама.
+
+   ELIZA. Oh, he's your son, is he?     ЭЛИЗА. О, так он Ваш сын, не
+Well,if you'd done your duty by him  так ли? Ну, если бы Вы выполнили
+as a mather should, he'd know better свой материнский долг как надо, он
+than spoil a poor girl's flowers,    бы научился чему-нибудь получше,
+then run away without paying.        чем портить цветы бедной девушки и
+                                     удирать не заплатив.
+
+   THE MOTHER. Go on about your         МАТЬ. Занимайся своими делами,
+business, my girl.                   моя девочка.
+
+   ELIZA. You go on without paying.     ЭЛИЗА. Это Вы удираете не
+Two bunches of violets trodden into  расплатившись. Два букета фиалок,
+the mud.                             втоптанных в грязь.
+
+   THE MOTHER. Oh, sir, is there any    МАТЬ. О, сэр, нет ли признаков
+sign of its stopping?                того, что он кончится?
+
+   PICKERING. I'm afraid not. It's      ПИКЕРИНГ. Боюсь, что нет. Он
+worse than before.                   сейчас сильнее чем раньше.
+
+   ELIZA. If it's worse it's sign       ЭЛИЗА. Если он сейчас сильнее -
+it's nearly over.                    это признак того, что он скоро
+Cheer up. Captain,                   кончится. Не унывайте. Капитан,
+buy a flower off a poor girl.        купите цветы у бедной девушки.
+
+   PICKERING. I'm sorry, I havn't       ПИКЕРИНГ. Извините, но у меня
+any change.                          совсем мелочи.
+
+   ELIZA. I can change half-a-crown.    ЭЛИЗА. Я могу разменять полкроны.
+Here, take this for tuppence.        Вот, возьмите эти за два пенса.
+
+   PICKERING. I told you I'm awfully    ПИКЕРИНГ. Я же сказал, мне
+sorry. Oh, wait a minute, oh, yes,   очень жаль. О, минуточку, ах да,
+here's three hapence, if that's any  вот три полупенса, если это Вас
+use to you.                          устроит.
+
+   ELIZA. Thank you, sir.               ЭЛИЗА. Спасибо, сэр.
+
+   A BYSTANDER. Here, you be            СВИДЕТЕЛЬ. Послушай, будь
+careful. Better give him a flover    осторожна. Лучше отдай ему цветы на
+for it. There's a bloke there behind эти деньги. Там за колонной какой-то
+the pillar taking down every blessed парень записывает каждое из твоих
+word you're saying.                  проклятий.
+
+   ELIZA. I am not done nothin'         ЭЛИЗА. Я не делала ничего плохого
+wrong by speakin' to the gentleman   разговаривая с этим джентльменом. Я
+I've a right to sell flowers if I    имею право продавать цветы, если
+keep off the curb. I'm a respectable стою за краем тротуара. Я-приличная
+girl, so help me. I never spoke to   девушка, так помогите же мне. Я
+him except to ask him to buy a       никогда ничего подобного ему
+flower off me.                       не говорила, только
+                                     попросила купить у меня цветы.
+
+   A HOXTON MAN. What's all the         ЖИТЕЛЬ ХОКСТОНА. Что за
+blooming noise?                      шухер?
+
+   A SELSEY MAN. There's a tec,         ЖИТЕЛЬ ЧЕЛСИ. Здесь какой-то
+taking her down.                     сыщик записывал все ее словечки.
+
+   ELIZA. Oh, sir, don't let him        ЭЛИЗА. О, сэр, не позволяйте ему
+charge me! You don't know what it    обвинить меня! Вы не знаете, что это
+means to me. They'll take away my    для меня значит. Они испортят мою
+character and drive me on the        репутацию и вышвырнут меня на улицу
+streets for speaking to gentlemen.   только за то, что я разоваривала с
+                                     этом джентльменом.
+
+   HIGGINS. There! There! There!        ХИГГИНС. Ну будет! Будет! Будет!
+Who's hurting you, you silly girl!   Кто тебя обижает, глупая девчонка!
+What do you take me for?             За кого ты меня принимаешь?
+
+   ELIZA. On my Bible oath, I never     ЭЛИЗА. Клянусь на Библии, я
+said a word...                       никогда не говорила ни слова...
+
+   HIGGINS. Oh, shut up, shut up. Do    ХИГГИНС. Ах, замолчи, замолчи.
+I look like a policeman?             Разве я похож на полицейского?
+
+   ELIZA. Then what did you take        ЭЛИЗА. Тогда зачем Вы записывали
+down my words for? How do I know     мои слова? Как я узнаю, верно ли Вы
+whether you took me down right? You  их записали? Сейчас же покажите мне
+just show me what you wrote about    что Вы обо мне написали. Ох, оох.
+me. Oh, ooh. But that ain't proper    Но тут непонятные каракули. Я не
+writing. I can't read that.           могу это прочесть.
+
+   HIGGINS. I can. I say, "Captain,     ХИГГИНС. Я прочту. Я написал:
+Buy a flower off a poor girl".       "Капитан, купите цветы у бедной
+                                     девушки".
+
+   ELIZA. It's because I called him     ЭЛИЗА. Это из-за того, что я
+Captain! I meant no harm, Oh, sir,   назвала его капитаном! Я не хотела
+don't let him lay a charge against   его обидеть. О, сэр, не позволяйте
+me for a word like that. You...      ему предъявлять обвинения против меня
+                                     за такие слова. Вы...
+
+   PICKERING. Charge! I make no         ПИКЕРИНГ. Обвинения! Я не обвиняю
+charge. Really, sir, if you are a    вовсе. В самом деле, сэр, если Вы -
+detective, you need not begin        детектив, то не должны начинать меня
+protecting me against molestation by защищать от приставаний этой молодой
+young women until I ask you. Anybody женщины, пока я не попрошу Вас об
+could tell the girl meant no harm.   этом. Можно сказать, что девушка и
+                                     не думала меня обижать.
+
+   THE SELSEY MAN. He ain't a tec.      ЖИТЕЛЬ ЧЕЛСИ. Он - не сыщик.
+He's a gentleman. Look at his boots. Он - джентльмен. Взгляните на его
+                                     сапоги.
+
+   HIGGINS. And how are all your        ХИГГИНС. Как поживает Ваша
+people down at Selsey?               родня из нижнего Челси?
+
+   THE SELSEY MAN. Who told my          ЖИТЕЛЬ ЧЕЛСИ. Кто сказал, что
+people come from Selsey?             мои родственники из Челси?
+
+   HIGGINS. Never mind. They do. How    ХИГГИНС. Никаких сомнений. Они
+do you come to be up so far east?    оттуда. Как Вы оказались так далеко
+You were born in Lisson Grove.       на востоке? Вы ведь
+                                     родились в Лиссонской Роще.
+
+   ELIZA, Ooh-ooh-ooh, what harm is     ЭЛИЗА. О-хо-хо, что плохого в
+there in my leaving Lisson Grove? It том, что я покинула Лиссонскую Рощу?
+wasn't fit for a pig to live in, and Она и свинье не подходит для жилья,
+I had to pay four-and-six a week.    и мне приходится платить четыре с
+Oh, hoo-hoo-oo.                      половиной в неделю. Ох, хо-хо-оо
+
+   HIGGINS. Live where you like but     ХИГГИНС. Живите, где хотите,
+stop that noise.                     только прекратите этот шум.
+
+   PICKERING. Come, come! He can't      ПИКЕРИНГ. Успокойтесь,
+touch you. You have a right to live  успокойтесь! Он не тронет Вас.
+where you please.                    Вы имеете правожить там, где
+                                     пожелаете.
+
+   ELIZA. I am a good girl, I am.       ЭЛИЗА. Я порядочная девушка, да.
+
+   THE HOXTON MAN. Do you know where    ЖИТЕЛЬ ХОКСТОНА. А Вы знаете
+I come from?                         откуда родом я?
+
+   HIGGINS. Hoxton.                     ХИГГИНС. Из Хокстона.
+
+   THE HOXTON MAN. Well, who say I      ЖИТЕЛЬ ХОКСТОНА. Здорово, кто
+didn't! Blimey, you know everything, говорит что нет! Черт возьми, да Вы
+you do.                              все знаете, точно.
+
+   THE MOTHER. Well, sir, do you        МАТЬ. Хорошо, сэр, как Вы думаете,
+think you could find me a taxi?      могли бы Вы найти для меня такси?
+
+   HIGGINS. I don't know if you're      ХИГГИНС. Не знаю, мадам,
+noticed it madam, but it's stopped   заметили ли Вы, но дождь уже
+raining, perhaps we can take a motor кончился, возможно, мы сможем сесть
+bus to Hapton Court. Well that's     на автобус до Хэптон Корт.
+where you live, isn't it?            Ведь Вы там живете, не так ли?
+
+   THE MOTHER. What impertinence!       МАТЬ. Какая дерзость!
+
+   ANOTHER BYSTANDER. Tell him where    ДРУГОЙ СВИДЕТЕЛЬ. Скажи ему,
+he come from. If you want to go      откуда он родом. Если хочешь
+fortune-telling.                     продолжать предсказывать судьбу.
+
+   HIGGINS. Cheltenham, Harrow,         ХИГГИНС. Челтенхем, Харроу,
+Cambridge, and India.                Кэмбридж и Индия.
+
+   PICKERING. Quite right.              ПИКЕРИНГ. Совершенно верно.
+
+   AND STILL ANOTHER BYSTANDER.         ЕЩЕ ОДИН СВИДЕТЕЛЬ. Бог мой, да
+Blimay, he ain't a tec, he's a blo-  он - не сыщик, он же - проклятый
+omin' busy-body, that's what he is!  смутьян, вот он - кто!
+
+   PICKERING. May I ask, sir, do you    ПИКЕРИНГ. Могу я Вас спросить,
+do this sort of thing for your       сэр, не зарабатываете ли Вы на жизнь
+living at music hall?                проделывая такие штучки в
+                                     мюзик-холле?
+
+   HIGGINS. Well, I have thought of     ХИГГИНС. Да, я думал об этом.
+that. Perhaps I will one day.        Возможно я когда-либо так и сделаю.
+
+   ELIZA, He's no gentleman, he         ЭЛИЗА. Он не джентльмен, он не
+ain't to interfere with a poor girl. должен приставать к бедной девушке.
+
+   PICKERING. How do you do it?..       ПИКЕРИНГ. Как Вы это делаете?..
+
+   HIGGINS. Simple phonetics. The       ХИГГИНС. Простая фонетика. Наука о
+science of speech. That's my         речи. Это моя профессия, а также мое
+profession, also my hobby. Anyone    хобби. Каждый может отличить
+can spot an Irishman or a            ирландца или йоркширца по акценту. Я
+Yorkshireman by his brogue. I can    могу определить место проживания
+place a man within six miles. I can  человека с точностью до шести миль.
+place him within two miles in        В Лондоне - до двух миль. Иногда
+London. Sometimes within two         в пределах двух соседних улиц.
+streets.
+
+   ELIZA. Ought to be ashamed of        ЭЛИЗА. Постыдился бы, малодушный
+himself, unmanly coward!             трус!
+
+   PICKERING. But is there a living     ПИКЕРИНГ. Но есть ли в этом
+in that?                             что-либо живое?
+                                     
+   HIGGINS. Oh, yes. Quite a fat        ХИГГИНС. О, да. И довольно
+one.                                 полнокровное.   
+
+   ELIZA. Let him mind his own          ЭЛИЗА. Занялся бы своим делом и
+business and leave a poor girl.      оставил в покое бедную девушку.
+
+   HIGGINS, Woman! Cease this           ХИГГИНС. Женщина! Прекратите 
+detestable boohooing instantly or    немедленно эти отвратительные 
+else seek the shelter of some other  завывания или лучше поищите другое 
+place of worship.                    место для причитаний!
+
+   ELIZA. I've a right to be here if    ЭЛИЗА. Я имею право быть здесь,
+I like, same as you.                 если мне нравится, такое же как и Вы.
+
+   HIGGINS. He who utters such          ХИГГИНС. Тот кто издает такие
+disgusting and depressing noise he   отвратительные и гнетущие звуки,
+has no right to be anywhere - no     не имеет права быть нигде - он
+right to live. Remember that you are не имеет права жить. Помните, что Вы
+a human being with a soul and the    - человек с душой и с божественным
+divine gift of articulate speech;    даром членораздельной речи, что Ваш
+that your native language is the     родной язык - язык Шекспира, Мильтона
+language of Shakespeare and Milton   и Библии. И не сидите здесь, бормоча
+and the Bible; and don't sit there   себе под нос подобно желчному сизарю.
+crooning like a bilious pigeon.
+
+   ELIZA. Ah-ooh-ooh-ooh-ow!            ЭЛИЗА. Ой-е-е-е-е-ей!
+   THE BUTLER. Your name, please.       ДВОРЕЦКИЙ. Ваше имя, пожалуйста.
+Your name, Miss?                     Ваше имя, мисс?
+
+   ELIZA. My mane is of no consern      ЭЛИЗА. Мое имя Вас не в коей мере
+to you, whatsoever.                  не касается.
+
+   THE BUTLER. One moment, please.      ДВОРЕЦКИЙ. Минуточку, пожалуйста.
+
+   ELIZA. London's getting so dirty     ЭЛИЗА. Лондон стал таким 
+these days.                          грязным за эти дни.
+
+   MRS PEARCE. I am Mrs Pearce, the     МИССИС ПИРС. Я - миссис Пирс,
+housekeeper. Can I help you?         экономка. Могу я Вам помочь?
+
+   ELIZA. Oh, good morning, Mrs, I'd    ЭЛИЗА. О, доброе утро, миссис. Я
+like to see the professor, please.   бы хотела видеть профессора,
+                                     пожалуйста.
+
+   MRS PEARCE. Could you tell me        МИССИС ПИРС. Можете ли Вы сказать
+what it's about?                     мне по какому вопросу?
+
+   ELIZA. It's business of a very       ЭЛИЗА. Это дело очень личного
+personal nature.                     характера.
+
+   MRS PEARCE. Oh. One moment,          МИССИС ПИРС. О-о. Одну минуту,
+please.                              пожалуйста.
+
+   MRS PEARCE. Mr Higgins, are you      МИССИС ПИРС. Мистер Хиггинс, Вы -
+there?                               здесь?
+
+   HIGGINS. What is it, Mrs Pearce?     ХИГГИНС. Что такое, миссис Пирс?
+
+   MRS PEARCE. There's a young woman    МИССИС ПИРС. Здесь молодая
+who wants to see you, sir.           женщина, которая хочет видеть Вас,
+                                     сэр.
+
+   HIGGINS. A young woman! What does    ХИГГИНС. Молодая женщина! Чего она
+she want?                            хочет?
+
+   MRS PEARCE. Oh, she's quite a        МИССИС ПИРС. О, да она довольно
+common girl, a very common, indeed.  вульгарная девушка, в самом
+I should have sent her away really.  деле, очень вульгарная. Я должна была
+I thought, perhaps, you wanted her   прогнать ее прочь, право. Но
+to talk into your machine.           подумала, что, быть может, Вы
+                                     пожелаете, чтобы она наговорила в
+                                     Вашу машину.
+
+   HIGGINS. Has she an interesting      ХИГГИНС. У нее интересный
+accent?                              акцент?
+
+   MRS PEARCE. Simply ghastly, Mr.      МИССИС ПИРС. Просто ужасный,
+Higgins.                             мистер Хиггинс.
+
+   HIGGINS. Good. Let's have her in.    ХИГГИНС. Хорошо. Пусть войдет.
+Show her in, Mrs Pearce.             Проводите ее, миссис Пирс.
+
+   MRS PEARCE. Very well, sir. It's     МИССИС ПИРС. Очень хорошо, сэр.
+for you to say.                      Как скажете.
+
+   HIGGINS. This is rather a bit of     ХИГГИНС. Это пожалуй маленькая
+luck. I'll show you how I make       удача. Я покажу Вам, как я делаю
+records. We'll set her talking: and  записи. Мы запишем ее разговор: и
+I'll take her down first in Bell's   я запишу ее сначала в "Видимую речь"
+Visible Speech; then in Broad Romic; Белла; затем - в "Расширенный
+and then we'll get her on the        Романский"; а после мы запишем ее на
+phonograph so that you can turn her  фонографе, так чтобы можно было
+around whenever you want with the    прокручивать ее речь всякий раз,
+written transcript before you.       когда пожелаете и при этом иметь
+                                     перед собой копию записи.
+
+   MRS PEARCE. This is the young        МИССИС ПИРС. А вот и молодая
+woman, sir.                          женщина, сэр.
+
+   ELIZA. Good morning, my good man.    ЭЛИЗА. Доброе утро, добрый
+May I have the pleasure...           человек. Мне было бы приятно...
+
+   HIGGINS. Oh, no,no,no. This is       ХИГГИНС. О, нет, нет, нет. Это -
+the girl I jotted down last night.   та девушка, которую я записал вчера
+She's no use. I've got all the       вечером. Она не нужна. Я сделал все
+records I want of the Lisson Grove   записи, которые хотел получить по
+lingo, and I'm not going to waste    жаргону Лиссонской Рощи,
+another cylinder on her. Be off with и не собираюсь тратить на нее еще
+you, I don't want you.               один цилиндр (фонографа). Уходите,
+                                     я не желаю Вас видеть.
+
+   ELIZA. Don't be so saucy. You        ЭЛИЗА. Не будьте таким нахальным.
+ain't heard what I come for yet. Did Вы еще даже не услышали, зачем я
+you tell him I come in a taxi?       пришла. Вы сказали ему, что я
+                                     приехала на такси?
+
+   MRS PEARCE. Nonsense, girl! What     МИССИС ПИРС. Глупости, девушка!
+do you think a gentleman like Mr     Вы что, думаете такому джентльмену,
+Higgins cares on what you came in?   как мистер Хиггинс, есть дело
+                                     до того, на чем Вы приехали?
+
+   ELIZA. Oh, we are proud! He ain't    ЭЛИЗА. О, какие мы гордые! Но не
+above giving lessons, not him. I     настолько, чтоб не давать уроков,
+heard him say so. Well, I ain't come отнюдь. Я слышала как он это говорил.
+here to ask for any compliment; and  Ладно, я пришла сюда не за тем, чтобы
+if my money's not good enough I can  напрашиваться на комплименты; и если
+go elsewhere.                        мои деньги недостаточно хороши, я
+                                     могу пойти куда-нибудь еще.
+
+   HIGGINS. Good enough for what?       ХИГГИНС. Достаточно хороши для
+                                     чего?
+
+   ELIZA. Good enough for you-u. Now    ЭЛИЗА. Достаточно хороши для Вас.
+you know, don't you? I'm come to     Теперь Вы знаете, не так ли? Я пришла
+have lessons, I am. And I am to pay  брать уроки, вот. И я также в состоя-
+for 'em too: make no mistake.        нии платить за них, несомненно.
+
+   HIGGINS. Well! What do you expect    ХИГГИНС. Хорошо! И что же Вы
+me to say.                           ожидаете от меня услышать?
+
+   ELIZA, Well, if you was a            ЭЛИЗА. Ну, если б Вы были
+gentleman, you might ask me to sit   джентльменом, я полагаю, Вы могли бы
+down, I think. Don't I tell you I'm  предложить мне сесть. Разве я не
+bringing you business?               сказала Вам, что предлагаю Вам дело?
+
+   HIGGINS. Pickering, shall we ask     ХИГГИНС. Пикеринг, предложим ли мы
+this baggage to sit down, or shall   этой нахалке присесть или просто
+we just throw her out of the window? выкинем ее в окно?
+
+   ELIZA. Ao-ah-oh-ow-oo! I won't be    ЭЛИЗА. Ох-хо-хо-хо! Я не хочу
+called a baggage when I've offered   чтобы меня называли нахалкой когда я
+to pay like any lady!                предложила заплатить как любая леди!
+
+   PICKERING. What do you want, my      ПИКЕРИНГ. Что Вам угодно, моя
+girl?                                девочка?
+
+   ELIZA. I want to be a lady in a      ЭЛИЗА. Я хочу быть леди в
+flower shop, 'stead of selling in    цветочном магазине, вместо того, чтоб
+the corner of Tottenham Court Road.  торговать на углу Тотенхэм Корт Роуд
+But they won't take me unless I can  Но они не хотят меня брать, пока я не
+talk more genteel. He said he could  научусь выражаться помягче. Он
+teach me. Well, here I am ready to   сказал, что может научить меня. Ну,
+pay him - not asking any favour -    а я готова заплатить ему, не прося
+and he treats me as if I was dirt. I никаких скидок, а он обращается со
+know what lessons cost as well as    мной будто я грязная. Я не хуже Вас
+you do; and I am ready to pay.       знаю, почем нынче уроки, и готова
+                                     платить.
+
+   HIGGINS. How much?                   ХИГГИНС. Сколько?
+
+   ELIZA. Now you're talking! I         ЭЛИЗА. Теперь Вы заговорили! Я
+thought you'd come off it, when you  так и думала, что Вы согласитесь,
+saw a chance of getting back a bit   когда увидите шанс получить обратно
+of what you chucked at me last       немного того, что швырнули мне вчера
+night. You'd had a drop in.          вечером. Вы были тогда навеселе.
+
+   HIGGINS. Sit down.                   ХИГГИНС. Садитесь.
+
+   ELIZA. Oh, if you're going to        ЭЛИЗА. О, если Вы собираетесь
+make a compliment of it -            из-за этого делать комплименты...
+
+   HIGGINS. Sit down.                   ХИГГИНС. Садитесь.
+
+   MRS PEARCE. Sit down, girl. Do as    МИССИС ПИРС. Садитесь, девушка.
+you're told.                         Делайте, что Вам говорят.
+
+   PICKERING. What is your name?        ПИКЕРИНГ. Как Вас зовут?
+
+   ELIZA. Eliza Doolittle.              ЭЛИЗА. Элиза Дулиттл.
+
+   PICKERING. Won't you sit down,       ПИКЕРИНГ. Не хотите ли присесть,
+Miss Doolittle?                      мисс Дулиттл?
+
+   ELIZA. Oh, I don't mind if I do.     ЭЛИЗА. О, не стану возражать.
+
+   HIGGINS. Now. How much do you        ХИГГИНС. Так. Сколько же Вы
+propose to pay me for these lessons? предполагаете платить мне за эти
+                                     уроки?
+
+   ELIZA. Oh, I know what's right. A    ЭЛИЗА. О, я знаю, сколько
+lady friend of mine gets French      полагается. Моя подруга берет уроки
+lessons for eighteen pence an hour   французского за восемнадцать пенсов
+from a real French gentleman. Well,  в час у настоящего французского
+you wouldn't have the face to ask me джентльмена. Ну, у Вас не хватит
+the same for teaching me my own      наглости, чтобы просить у меня за
+language as you would for French; so обучение меня моему родному языку
+I won't give more than a shilling.   столько, сколько запросили бы за
+Take it or leave it.                 французский, так что я не дам больше
+                                     шиллинга. Это мое последнее слово.
+
+   HIGGINS. You know, Pickering, if     ХИГГИНС. Вы знаете, Пикеринг,
+you think of a shilling, not as a    если оценивать шиллинг не просто как
+simple shilling, but as a percentage шиллинг, а как проценты от доходов
+of this girl's income, it works out  этой девушки, то это будет вполне
+as fully equivalent of sixty or      эквивалентно 60-ти или 70-ти фунтам
+seventy pounds from a millionaire.   полученным от миллионера. Святой
+By George, it's enormous, it's       Джордж, это выше нормы, это самое
+the biggest offer I ever had.        крупное предложение из когда-либо
+                                     полученных мной.
+
+   ELIZA. Sixty pounds! What are you    ЭЛИЗА. Шестьдесят фунтов! О чем
+talkin' about? I never offered you   Вы говорите? Я никогда не предлагала
+sixty pounds! Where would I get      Вам шестьдесят фунтов! Где я достану
+sixty pounds.                        шестьдесят фунтов?
+
+   HIGGINS. Oh, hold your tongue.       ХИГГИНС. О, попридержите язык.
+
+   ELIZA. But I ain't got sixty         ЭЛИЗА. Но я не смогу достать
+pounds. Oh...                        шестидесяти фунтов. Ох...
+
+   MRS PEARCE. Don't cry, you silly     МИССИС ПИРС. Не кричите, Вы,
+girl. Sit down. Nobody is going to   глупая девушка. Садитесь. Никто не
+touch your money.                    собирается трогать Ваши деньги.
+
+   HIGGINS. Somebody is going to        ХИГГИНС. Кое-кто собирается огреть
+touch you with a broomstick,if you   Вас метлой, если не перестанете
+don't stop snivelling. Now, sit      хныкать. А теперь садитесь.
+down.
+
+   ELIZA. Aoooow! Anybody would         ЭЛИЗА. Ах-ах. Можно подумать что
+think you was my father!             Вы мой отец!
+
+   HIGGINS. If I decide to teach        ХИГГИНС. Если я решусь Вас учить,
+you, I'll be worse than two fathers  то буду для Вас хуже двух отцов.
+to you. Here.                        Вот.
+
+   ELIZA. What's this for?              ЭЛИЗА. А это еще зачем?
+
+   HIGGINS. To wipe your eyes. To       ХИГГИНС. Чтоб утирать Ваши слезы.
+wipe any part of your face that      Чтобы вытирать любую часть Вашего
+feels moist. Remember, that's your   лица, где проступает влага.
+handkerchief; and that's your        Запомните, это Ваш носовой платок, а
+sleeve. And don't confuse the one    это Ваш рукав. И не путайте одно с
+with the other if you want to become другим, если Вы желаете стать
+a lady in a shop.                    леди в магазине.
+
+   MRS PEARCE. It's no use to talk      МИССИС ПИРС. Нет необходимости
+to her like that, Mr. Higgins she    разговаривать с ней подобным
+doesn't understand you.              образом, мистер Хиггинс, она все
+                                     равно не понимает Вас.
+
+   ELIZA. Eh-eh... He gave that         ЭЛИЗА. Но-но... Он дал этот
+handkerchief to me, to me not to     платок мне, мне, а не Вам.
+you.
+
+   PICKERING. Higgins, I'm              ПИКЕРИНГ. Хиггинс, мне стало
+interested. What about your boast    интересно. А как насчет Вашего
+that you could pass her off as a     заявления, что Вы смогли бы выдать ее
+duchess at the Embassy Ball? I'll    за герцогиню в Посольском Зале? Я
+say you're the greatest teacher      назову Вас величайшим учителем из
+alive if you can make that good.     ныне живущих, если Вы сумеете сделать
+I'll bet you all the expenses of the такое доброе дело. Готов биться об
+experiment that you can't do it. And заклад, на все расходы по эксперимен-
+I'll even pay for the lessons.       ту, что Вам это не удастся. И я даже
+                                     готов оплатить уроки.
+
+   ELIZA. Oh, you're real good.         ЭЛИЗА. О, Вы действительно
+Thank you, Captain.                  добрый. Спасибо Вам, капитан.
+
+   HIGGINS. It's almost                 ХИГГИНС. Трудно устоять.
+irresistible. She's so deliciously   Она так восхитительно неотесанна,
+low - so horribly dirty.             так ужасно грязна.
+
+   ELIZA. Aooow! I ain't dirty: I       ЭЛИЗА. Ой-ой! Я не грязная: я
+washed my face and hands before I    мыла лицо и руки перед тем, как
+come, I did.                         придти, мыла.
+
+   HIGGINS. I'll take it! I'll make     ХИГГИНС. Я сделаю это! Я сделаю
+a duchess of this draggle-tailed     герцогиню из этой выпачканной в грязи
+guttersnipe!                         уличной девчонки.
+
+   ELIZA. Ah-oh-ow!                     ЭЛИЗА. У-ух-ты!
+
+   HIGGINS. I'll start today! Now!      ХИГГИНС. Я начну сегодня! Сейчас!
+This moment! Take her away and clean Прямо сейчас! Уведите ее и вычистите.
+her. Mrs Peace, sandpaper if it      Миссис Пирс, наждачной бумагой, если
+won't come off any other way. Is     ничем другим не получится. Хорошо ли
+there a good fire in the kitchen?    разведен огонь на кухне?
+
+   MRS PEARCE. Yes, but...              МИССИС ПИРС. Да, но...
+
+   HIGGINS. Take all her clothes off    ХИГГИНС. Снимите с нее всю одежду
+and burn them. Ring up and order     и сожгите. Позвоните по телефону и
+some new ones. Just wrap her up in   закажите новые платья. Заверните ее в
+brown paper till they come.          оберточную бумагу пока их пришлют
+                                     из магазина.
+
+   ELIZA. You're no gentleman,          ЭЛИЗА. Вы - не джентльмен, нет,
+you're not, to talk of such things.  если говорите о таких вещах. Я -
+I'm а good girl, I am; and I know    порядочная девушка, да. И я знаю,
+what the likes of you are, I do.     что представляют из себя такие как
+                                     Вы, я знаю.
+
+   HIGGINS. We want none of your        ХИГГИНС. Нам здесь не нужна Ваша
+slum prudery here, young woman.      трущобная стыдливость, юная женщина.
+You've got to learn to behave like a Вам надо учиться, чтобы вести себя
+duchess. Take her away, Mrs Pearce.  как герцогиня. Уведите ее, миссис
+If she gives you any trouble, wallop Пирс. Если она будет доставлять Вам
+her.                                 беспокойство, отшлепайте ее.
+
+   ELIZA. I'll call the police, I       ЭЛИЗА. Я позову полицию, я
+will!                                позову!
+
+   MRS PEARCE. But I've got no place    МИССИС ПИРС. Но у меня нет места,
+to put her.                          где я могла бы разместить ее.
+
+   HIGGINS. Put her in the dustbin.     ХИГГИНС. Положите ее в мусорный
+                                     ящик.
+
+   ELIZA. Aoooow!                        ЭЛИЗА. Ау-у-уу!
+
+   PICKERING. Oh come, Higgins! Be      ПИКЕРИНГ. Ну, будет, Хиггинс!
+reasonable.                          Будьте серьезнее.
+
+   MRS PEARCE. You must be              МИССИС ПИРС. Вы должны быть
+reasonable, Mr Higgins, really you   рассудительным, мистер Хиггинс, да,
+must. You can't walk over everybody  в самом деле, должны. Вы не можете
+like this.                           таким вот образом оскорблять чувства
+                                     кого бы то ни было.
+
+   HIGGINS. I walk over everybody?      ХИГГИНС. Я оскорбляю чувства? Моя
+My dear Mrs Pearce, My dear          дорогая миссис Пирс, мой дорогой
+Pickering. I never had the intention Пикеринг! У меня нет намерений
+of walking over anybody. All I       оскорблять чьи-то чувства. Я лишь
+suggest is that we should be kind to полагаю, что мы должны быть добры к
+this poor girl. If I did not express этой бедной девушке. Если я выражаюсь
+myself clearly it was because I      недостаточно ясно, то лишь потому,
+didn't wish to hurt her delicacy, or что не хочу задевать ничьих тонких
+yours.                               чувств - ни ее, ни ваших.
+
+   MRS PEARCE. But, sir, you can't      МИССИС ПИРС. Однако, сэр, Вы не
+take a girl up like that as if       можете подобрать девушку словно
+you were picking up a pebble on the  морскую гальку на берегу.
+beach.
+
+   HIGGINS. Why not?                    ХИГГИНС. Почему нет?
+
+   MRS PEARCE. Why not? But you         МИССИС ПИРС. Почему нет? Но Вы же
+don't know anything about her! What  ничего о ней не знаете! Кто ее
+about her parents? She may be        родители? Она, быть может, замужем.
+married.
+
+   ELIZA. Garn!                         ЭЛИЗА. Ха!
+
+   HIGGINS. There! As the girl very     ХИГГИНС. Вот! Как очень
+properly says: Garn!                 справедливо заметила девушка: Ха!
+
+   ELIZA. Who'd marry me?               ЭЛИЗА. Кто на мне женится?
+
+   HIGGINS. By George, Eliza, the       ХИГГИНС. Святой Джорж, Элиза, к
+streets will be strewn with the      тому времени, когда я закончу с Вами,
+bodies of men shooting themselves    улицы будут усыпаны телами мужчин,
+for your sake before I've done with  перестрелявшими друг друга ради Вас.
+you.
+
+   ELIZA. Here! I'm goin' away! He's    ЭЛИЗА. Ну вот! Я ухожу! У него
+off his chump, he is. I don't want   крыша поехала, точно. Я не хочу,
+no balmies teachin' me.              чтоб меня учили придурки.
+
+   HIGGINS. Oh, indeed! I'm mad, am     ХИГГИНС. О, неужели!
+I? Very well, Mrs Pearce, you        Я-сумасшедший? Да? Очень хорошо,
+needn't order the new clothes for    миссис Пирс, не нужно заказывать
+her. Throw her out!                  новые платья для нее. Выкиньте ее
+                                     прочь!
+
+   MRS PEARCE. Stop, Mr Higgins! I      МИССИС ПИРС. Остановитесь, мистер
+won't allow it. Go home to your      Хиггинс! Я этого не позволю. Ступайте
+parents, girl.                       домой к своим родителям, девушка.
+
+   ELIZA. I ain't got no parents.       ЭЛИЗА. Нет у меня никаких
+                                     родителей.
+
+   HIGGINS. There you are. She          ХИГГИНС. Вы слышали. Нет у
+ain't got no parents. What's all the нее никаких родителей. И из-за чего
+fuss about? The girl doesn't belong  весь этот шум? Девушка - ничья, и она
+to anybody, and she's no use to      не нужна никому, кроме меня. Тащите
+anybody but me. Take her upstairs    ее наверх и...
+and...
+
+   MRS PEARCE. But what's to become     МИССИС ПИРС. Ну что с ней будет?
+of her? Is she to be paid anything?  Ей будут что-нибудь платить?
+Oh, do be sensible, sir.             О, будьте благоразумны, сэр.
+
+   HIGGINS. What on earth will she      ХИГГИНС. Чего на белом свете она
+want with money? She'll have her     захочет за деньги? У нее будут
+food and her clothes. She'll only    пища и одежда. Она лишь напьется,
+drink if you give her money.         если дать ей денег.
+
+   ELIZA. Oh, you are a brute. It's     ЭЛИЗА. О, Вы - грубиян. Это
+a lie; nobody ever saw the sign of   ложь; никто никогда не видел и
+liquor on me. Oh, sir, you're a      признаков спиртного на мне. Ах,
+gentleman, don't let him speak to me сэр, ведь Вы - джентльмен, не
+like that!                           позволяйте ему так со мной
+                                     разговаривать.
+
+   PICKERING. Does it occure to you,    ПИКЕРИНГ. Не приходит ли Вам в
+Higgins, that the girl has some      голову, Хиггинс, что у девушки есть
+feelings?                            какие-то чувства?
+
+   HIGGINS. Oh, no, I don't think       ХИГГИНС. О, нет, я так не думаю.
+so. Not any feelings we need to      Ни о каких чувствах беспокоиться нам
+worry about. Have you Eliza?         не приходится. Они у Вас есть,
+                                     Элиза?
+
+   ELIZA. I've got my feelings like     ЭЛИЗА. У меня есть мои чувства,
+anyone else.                         как и у всякого.
+
+   MRS PEARCE. Mr Higgins, I must       МИССИС ПИРС. Мистер Хиггинс, Я
+know on what terms the girl is to be должна знать, на каких условиях
+here. What is to become of her when  девушка здесь остается. И что с
+you've finished your teaching? You   ней станет когда Вы закончите Ваше
+must look ahead a little, sir.       обучение? Вы должны смотреть
+                                     немного вперед, сэр.
+
+   HIGGINS. What's to become of her     ХИГГИНС. А что станется с ней,
+if I leave her in the gutter'?       если я оставлю ее в канаве? Ответьте
+Answer me that, Mrs Pearce.          мне на это, миссис Пирс.
+
+   MRS PEARCE. That's her own           МИССИС ПИРС. Это ее личное дело,
+business, not yours, Mr Higgins.     а не Ваше, мистер Хиггинс.
+
+   HIGGINS, Well, when I've done        ХИГГИНС. Хорошо, когда я закончу
+with her, we can throw her back into с ней, мы сможем выкинуть ее
+the gutter, and then it will be her  обратно в канаву, и тогда это снова
+own business again: so that's all    будет ее личное дело, так что все в
+right,                               порядке.
+
+   ELIZA. You've got no feelin'         ЭЛИЗА. У Вас внутри бесчувственное
+heart in you! You don't care for     сердце! Вас ничто не интересует
+nothing but yourself. Here! I've had кроме себя самого. Все! С меня
+enough of this. I'm going, I am. You хватит. Я ухожу, да. Мне стыдно за
+ought to be ashamed of yourself, you Вас, постыдились бы.
+ought.
+
+   HIGGINS. Have some chocolates,       ХИГГИНС. Возьмите шоколад, Элиза.
+Eliza.
+
+   ELIZA. I wondеr what might be in     ЭЛИЗА. Мне хотелось бы знать, что
+them? I've heard of girls being      может быть у них внутри? Я слышала о
+drugged by the likes of you.         девочках, обманутых такими как Вы.
+
+   HIGGINS. Pledge of good faith. I     ХИГГИНС. Честное слово. Я возьму
+take one half and you take the       половинку, а Вы возьмите другую. У
+other. You shall have boxes of them, Вас их будут коробки, бочки, каждый
+barrels of them, every day. You'll   день. Вы будете ими жить, а?
+live on them, eh?
+
+   ELIZA. I wouldn't have ate it,       ЭЛИЗА. Я не должна бы это есть,
+only I'm too lady like to take it    однако, я слишком похожа на
+out off my mouth.                    леди, чтобы пронести мимо рта.
+
+   HIGGINS. Think of it, Eliza.         ХИГГИНС. Подумайте о них, Элиза.
+Think of chocolates, and taxis, and  Подумайте о шоколадках, о такси, о
+gold, and diamonds.                  золоте и бриллиантах.
+
+   ELIZA. No! I don't want no gold      ЭЛИЗА. Нет! Не хочу ни золота, ни
+and no diamonds. I'm a good girl, I  бриллиантов. Я порядочная девушка.
+am.                                  Порядочная.
+
+   PICKERING. Higgins, I really must    ПИКЕРИНГ. Хиггинс, право, я
+interfere! Mrs Pearce is quite       должен вмешаться! Миссис Пирс
+right. If this girl is to put        совершенно права. Раз уж девушка
+herself in your hands for six month  вынуждена отдать себя в Ваши руки на
+for an experiment in teaching, she   шесть месяцев для образовательного
+must understand thoroughly what      эксперимента, она должна ясно
+she's doing!                         представлять себе, на что идет.
+
+   HIGGINS. Eliza, you are to stay      ХИГГИНС. Элиза, Вы останетесь
+here for the next six months         здесь на шесть месяцев, обучаясь
+learning how to speak beautifully,   изящной речи, такой, как у леди в
+like a lady in a florist's shop. If  цветочном магазине. Если будете
+you're good and do whatever you're   прилежно делать все, что велено, то
+told, you shall sleep in a proper    будете спать в отдельной спальне, у
+bedroom and have lots to eat, and    Вас будут много еды и деньги на
+money to buy chocolates and take     шоколад и поездки на такси. Но если
+rides in taxis. But if you're        Вы будете ленивы и непослушны, то
+naughty and idle you shall sleep in  будете спать в чулане среди черных
+the back kitchen among the black     тараканов и будете биты миссис Пирс
+beetles, and be walloped by Mrs      метлой. К концу шестого месяца Вы
+Pearce with a broomstick. At the end будете доставлены в Букингемский
+of six months you should be taken to Дворец в экипаже, шикарно одетой.
+Buckingham Palace in a carriage,     Если Король обнаружит: что Вы не
+beautifully dressed. If the King     леди, тогда полиция бросит Вас в
+finds out that you're not a lady,    Лондонский Тауэр, где Вам отрубят
+the police will take you to the      голову в назидание другим
+Tower of London where your head will самонадеянным цветочницам. Если Вас
+be cut off as a warning to other     не раскусят, Вы получите в подарок
+presumptuous flower girls. If you're семь с половиной фунта
+not found out you shall have a       для начала карьеры леди в
+present of seven-and-six to start    магазине. Если отвергнете это
+life as a lady in a shop. If you     предложение, Вы будете самой
+refuse this offer you will be the    неблагодарной, злой девушкой;
+most ungreatful, wicked girl; and    и ангелы будут плакать из-за Вас...
+the angels will weep for you... Now  Теперь Вы удовлетворены, Пикеринг?..
+are you satisfied, Pickering?..
+
+   PICKERING. I don't know what in      ПИКЕРИНГ. Я не знаю, о чем же Вы
+the world you are talking about.     все-таки толкуете?
+
+   HIGGINS. Could I put it more         ХИГГИНС. Могу ли я излагать еще
+plainly or fairly, Mrs Pearce?       более доходчиво и образно, миссис
+                                     Пирс?
+
+   MRS PEARCE. Come with me Eliza.      МИССИС ПИРС. Пойдем со мной,
+                                     Элиза.
+
+   HIGGlNS. That's right, Mrs           ХИГГИНС. Правильно, миссис Пирс.
+Pearce. Bundle her off to the        Уведите ее в ванную.
+bathroom.
+
+   ELIZA. You're a great bully, you     ЭЛИЗА. Вы большой грубиян,
+are. I won't stay here if I don't    большой. Я не останусь здесь, если
+like. And I won't let nobody wallop  мне не понравится. И я не позволю
+me.                                  кому бы то ни было бить меня.
+
+   MRS PEARCE. Don't answer back,       МИССИС ПИРС. Не надо дерзить,
+girl.                                девочка.
+
+   ELIZA. If I'd known what I was       ЭЛИЗА. Если б я знала, во что я
+lettin' myself in for, I wouldn't    вляпаюсь, ни за что бы сюда не
+have come up here. I've always been  пришла. Я всегда была порядочной
+a good girl, I am and I won't be put девушкой, всегда; и я не хочу быть
+upon...                              втянутой в ...
+
+   HIGGINS. In six months - in three    ХИГГИНС. За шесть месяцев, даже
+if she has a good ear and a quick    за три, при условии, что у ней
+tongue - I'll take her anywhere and  окажется хороший слух и живой язык,
+pass her off as any- thing. I'll     я выведу ее куда угодно и выдам ее
+make a queen of that barbarous       за кого угодно. Я сделаю из этой
+wretch.                              жалкой дикарки королеву.
+
+   PICKERING. Oh, for God's sake,       ПИКЕРИНГ. О, ради бога, Хиггинс.
+Higgins. It must be three o'clock in Уже должно быть три часа утра.
+the morning. Do be reasonable.       Образумьтесь.
+
+   HIGGINS. I am always reasonable.     ХИГГИНС. Я всегда благоразумен.
+Eliza, if I can go on with a         Элиза, если я способен продолжать с
+blistering headache, you can.        нарастающей головной болью, то и Вы
+                                     сможете.
+
+   ELIZA. I have a headache, too.       ЭЛИЗА. У меня тоже голова болит.
+
+   HIGGINS. Here. Eliza, I know your    ХИГГИНС. Разумеется. Элиза, я
+headaches. I know you're tired. I    знаю, что у Вас болит голова. Я знаю,
+know your nerves are as raw as meat  что Вы устали. Я знаю, что Ваши нервы
+in a butcher's window.               сейчас так же обнажены как сырое мясо 
+But think of                         на витрине у мясника. Однако, поду-
+what you're trying to accomplish.    майте, чего Вы стараетесь достичь.
+Just think what you're dealing with. Только подумайте, с Чем Вы имеете
+The majesty and grandeur of the      дело. Величие и великолепие
+English language. It's the greatest  Английского языка. Это - величайшее
+posession we have. The noblest       наше богатство. Благороднейшие мысли,
+thoughts that ever flowed to the     которые время от времени проникают в
+hearts of men are contained in its   мужские сердца, состоят из смеси его
+extraordinary, imaginative and       необычных, образных и музыкальных
+musical mixtures of sounds. And      звуков. Это то, к завоеванию чего
+that's what you've set yourself up   Вам следует стремиться, Элиза.
+to conquer, Eliza. And conquer it    И Вы добьетесь этого. А теперь,
+you will. Now, try it again.         постарайтесь снова.
+
+   ELIZA. The rain in Spain stays       ЭЛИЗА. Дождь в Испании бывает
+mainly in the plain.                 главным образом на равнине.
+
+   HIGGINS, What was that?              ХИГГИНС. Чего-чего?
+
+   ELIZA. The rain in Spain stays       ЭЛИЗА. Дождь в Испании бывает
+mainly in the plain.                 главным образом на равнине.
+
+   HIGGINS. Again.                      ХИГГИНС. Снова.
+
+   ELIZA. The rain in Spain stays       ЭЛИЗА. Дождь в Испании бывает
+mainly in the plain.                 главным образом на равнине.
+
+   HIGGINS. I think she's got it! I     ХИГГИНС. Мне кажется, у нее
+think she's got it!                  получилось! Мне кажется, у нее
+                                     получилось!
+
+   ELIZA.                               ЭЛИЗА.
+The rain in Spain                    Дождь в Испании 
+stays mainly in the plain.           бывает главным образом на равнине.
+
+   HIGGINS.                             ХИГГИНС.
+By George, she's got it!             Святой Джордж, она справилась!
+By George, she's got it!             Святой Джордж, она справилась!
+Now once again,                      Теперь еще раз снова,
+where does it rain?                  где там дождичек?
+
+   ELIZA.                               ЭЛИЗА.
+On the plain! On the plain!          На равнине! На равнине!
+
+   HIGGINS.                             ХИГГИНС.
+And where's that soggy plain?        А где та мокрая равнина?
+
+   ELIZA.                                ЭЛИЗА.
+In Spain! In Spain!                  В Испании! В Испании!
+
+   THE THREE.                           ВТРОЕМ.
+The rain in Spain                    Дождь в Испании 
+stays mainly in the plain!           бывает главным образом на равнине!
+The rain in Spain                    Дождь в Испании
+stays mainly in the plain!           бывает главным образом на равнине!
+
+   HIGGINS.                             ХИГГИНС.
+In Hertford, Hereford,               В Хертфорде, Хирфорде 
+and Hampchire...?                    и Хэмпшире...?
+
+   ELIZA.                               ЭЛИЗА. 
+Hurricanes hardly happen.            Ураганы случаются очень редко.
+How kind of you to let me come.      Как это мило с Вашей стороны,
+                                     что позволили мне придти.
+
+   HIGGINS.                             ХИГГИНС.
+Now once again,                      А теперь снова, 
+where does it rain?                  где идет дождь?
+
+   ELIZA.                               ЭЛИЗА.
+On the plain! On the plain!          На равнине! На равнине!
+
+
+   HIGGINS.                             ХИГГИНС.
+And where's that blasted plain?      И где же та проклятая равнина?
+                               
+
+   ELIZA.                               ЭЛИЗА.
+In Spain! In Spain!                  В Испании! В Испании!
+
+   THE THREE.                           ВТРОЕМ.
+The rain in Spain                    Дождь в Испании 
+stays mainly in the plain!           бывает главным образом на равнине.
+The rain in Spain                    Дождь в Испании
+stays mainly in the plain!           бывает главным образом на равнине.
+
+   HIGGINS. Pickering, we're making     ХИГГИНС. Пикеринг, мы делаем
+fine progress. I think the time has  большие успехи. Я думаю, настала
+come to try her out.                 пора попробовать ее выпустить.
+
+   MRS PEARCE. Are you feeling all      МИССИС ПИРС. Хорошо ли себя
+right, Mr Higgins?                   чувствуете, мистер Хиггинс?
+
+   HIGGINS. Yes I'm really fine, Mrs    ХИГГИНС. Да, я действительно
+Pearce. And how are you?             чувствую себя прекрасно, миссис
+                                     Пирс. А Вы?
+                                  
+   MRS PEARCE. Very well, sir, thank    МИССИС ПИРС. Очень хорошо, сэр,
+you.                                 спасибо.
+
+   HIGGINS. Let's test her in public    ХИГГИНС. Давайте проверим ее в
+and see how she fares.               обществе и поглядим, чего она стоит.
+
+   MRS PEARCE. Mr Higgins, I was        МИССИС ПИРС. Мистер Хиггинс, меня
+awakened by a dreadful pounding. Do  разбудил ужасный топот. Вы
+you know what it might have been?    не знаете, что бы это могло быть?
+
+   HIGGINS, Pounding? I didn't hear     ХИГГИНС. Топот? Я не слышал
+any pounding. Did you, Pickering?    никакого топота. А Вы, Пикеринг?
+
+   PICKERING. No.                       ПИКЕРИНГ. Нет.
+
+   HIGGINS. If this goes on, Mrs        ХИГГИНС. Если так будет продол-
+Pearce, you should see your doctor.  жаться миссис Пирс, Вам следует 
+Pickcring, I know! Let's take her to показаться Вашему доктору. Пикеринг,
+the races.                           Я знаю! Давайте возьмем ее на скачки.
+
+   PICKERING. The races?                ПИКЕРИНГ. Скачки?
+
+   HIGGINS. My Mother's box at          ХИГГИНС. В ложу моей матери в
+Ascot.                               Аскотте.
+
+   PICKERING. You'll consult your       ПИКЕРИНГ. Вам следует, разумеется,
+mother first, of course.             посоветоваться вначале с Вашей
+                                     матерью.
+
+   HIGGINS. Yes. Of course. No! We      ХИГГИНС. Да. Конечно. Нет! 
+shall better surprise her. Let's go  Лучше преподнесем ей сюрприз.
+to bed. First in the morning we'll   Пошли спать. Во-первых, утром мы
+go out and buy her a dress. Get on   пойдем и купим ей платье. Продолжай
+with your work, Eliza.               свою работу, Элиза.
+
+   MRS PEARCE. But, Mr Higgins, it's    МИССИС ПИРС. Но, мистер Хиггинс,
+early in the morning!                уже раннее утро!
+
+   HIGGINS, What better time to work    ХИГГИНС. Разве есть лучшее время
+than early in the morning? Where     для работы, чем раннее утро? Где
+does one buy a lady's gown?          следует покупать платье для леди?
+
+   PICKERING. Whieley's, of course.     ПИКЕРИНГ. В Уиллисе, конечно.
+
+   HIGGINS. How do you know that?       ХИГГИНС. Откуда Вы это знаете?
+
+   PICKERING. Common knowledge.         ПИКЕРИНГ. Просто знаю.
+
+   HIGGINS. We mustn't get her          ХИГГИНС. Нам не следует покупать
+anything too flowery. I despise      ей ничего слишком цветастого. Я не
+those gowns with a sort of weed here переношу платья с пучками травы здесь
+and a weed there. We'll buy her      и здесь. Мы купим для нее что-нибудь 
+that's simple, modest, and elegant   простое, модное и, что называется, 
+is what's called for. Perhaps with a элегантное. Возможно с бантом. Да, 
+bow. Yes, that's just right.         это как раз то, что нужно.
+                                     
+   MRS PEARCE. You've all been          МИССИС ПИРС. Вы все слишком много
+working much too hard. I think the   работали. Мне кажется злоупотребле-
+strain is beginning to show. Eliza,  нием начинать сейчас шоу. Элиза, меня
+I don't care what Mr Higgins says,   не волнует, что сказал мистер 
+you must put down your books and go  Хиггинс, Вы должны отложить учебники 
+to bed.                              и идти в кровать.
